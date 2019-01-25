@@ -16,4 +16,3 @@ run:
   - |
     cd pull-request
     echo What is the answer?
-    grep 42 answer
